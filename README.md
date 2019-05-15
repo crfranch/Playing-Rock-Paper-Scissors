@@ -1,5 +1,3 @@
-# Playing-Rock-Paper-Scissors
-
 # Rock, Paper, Scissors Shoot
 
 Create a RPS games that takes user input from the command line and plays against the computer.
